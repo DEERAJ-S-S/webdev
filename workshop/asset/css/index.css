@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: black;
+    color: white;
+}
+.navbar-brand {             
+    color: white;
+}
+.collapse {
+    background-color: black;
+    color: white;
+}
