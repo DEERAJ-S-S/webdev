@@ -1,0 +1,21 @@
+footer ul{
+    list-style: none;
+
+
+}
+footer{
+   background-color: black;
+   color: white;
+   text-align: center;
+   padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   font-size: medium;
+   transition: all 0.3s ease-in-out;
+
+}
+footer:hover{
+
+    color: rebeccapurple;
+    cursor: pointer;
+}
